@@ -10,5 +10,8 @@
   "extends": [
     "eslint:recommended",
     "google"
-  ]
+  ],
+  "parserOptions": {
+    "sourceType": "module"
+}
 }
